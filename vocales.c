@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <ctype.h>
+//Practica 3
 int main(){
     char c;
     char *msg = "1 \n";
-    char *msg1 = "No es una vocal\n";
+    char *msg1 = "No es vocal\n";
     char may;
     int n;
     do{
