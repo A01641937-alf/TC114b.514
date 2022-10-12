@@ -3,7 +3,7 @@
 #include <ctype.h>
 int main(){
     char c;
-    char *msg = "1\n";
+    char *msg = "1 \n";
     char *msg1 = "No es una vocal\n";
     char may;
     int n;
